@@ -1075,3 +1075,21 @@ eth.keyBlockNumber
 eth.accounts
 eth.keyBlockNumber
 eth.blockNumber
+eth.getBlock(49870)
+eth.getBlock(49871)
+eth.getBlock(49869)
+curl -X POST --data '{"jsonrpc":"2.0","method":"net_peerCount","params":[],"id":1}' \
+eth.getBlock(13945)
+eth.getBlock(499870)
+eth.getBlock(49870)
+eth.getBlock(49871)
+eth.getBlock(13945)
+eth.getBlock(48970)
+eth.getBlock(1)
+eth.getBlock(20001)
+eth.getBlock(1234567)
+eth.getBlock(49999)
+eth.getBlock(1)
+eth.getBlock(49870)
+eth.getBlock(45000)
+eth.getBlock(1234567)
